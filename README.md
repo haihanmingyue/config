@@ -1,1 +1,2 @@
 # config
+client application properties
